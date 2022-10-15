@@ -1,2 +1,6 @@
 # Churn-Analysis-And-Prediction
-Analyzing the customers who have left us and predicting the customers who hold the possibility of leaving us soon
+
+Customer Churn - churn is when an existing customer, user, player, subscriber or any kind of return client stops doing business or ends the relationship with a company.
+
+Aim - Analyzing the pecularities of customers who have churned and Aim - is to figure our which customers may likely churn in future
+
