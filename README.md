@@ -4,3 +4,7 @@ Customer Churn - churn is when an existing customer, user, player, subscriber or
 
 Aim - Analyzing the pecularities of customers who have churned and Aim - is to figure our which customers may likely churn in future
 
+Source of Dataset : https://www.kaggle.com/blastchar/telco-customer-churn
+
+
+
